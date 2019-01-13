@@ -275,11 +275,3 @@ int main() {
 	newMaze.robotMove();
 	return 0;
 }
-© 2019 GitHub, Inc.
-Help
-Support
-API
-Training
-Blog
-About
-GitHub Enterprise 2.15.4
