@@ -1,4 +1,4 @@
-*/
+/*
 Name: James Wilfong
 Date: October 31 2018
 Assignment: Laboratory 8
