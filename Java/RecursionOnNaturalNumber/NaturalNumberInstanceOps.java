@@ -5,7 +5,7 @@ import components.naturalnumber.NaturalNumber2;
  * Extension of {@code NaturalNumber2} with secondary operations implemented as
  * instance methods: add, subtract, and power.
  *
- * @author Put your name here
+ * @author James Wilfong
  *
  */
 public final class NaturalNumberInstanceOps extends NaturalNumber2 {
