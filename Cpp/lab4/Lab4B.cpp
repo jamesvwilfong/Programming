@@ -26,5 +26,3 @@ int main() {
 	cout << isPrime(1) << " Expected: 0" << endl;
 	cout << isPrime(191) << " Expected: 1" << endl;
 }
-
-// this is a test
