@@ -1,7 +1,7 @@
 /**
  * Demo GUI using a version of the Model-View-Controller (MVC) design pattern.
  * 
- * @author Bruce W. Weide
+ * @author James Wilfong
  * 
  */
 public final class DemoGUI {
