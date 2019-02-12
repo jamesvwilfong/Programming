@@ -6,7 +6,7 @@
  * Instead, typical informal Javadoc comments are included with each method
  * here.
  *
- * @author Bruce W. Weide
+ * @author James Wilfong
  *
  */
 public final class DemoModel {
