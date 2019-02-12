@@ -6,7 +6,7 @@ import components.simplewriter.SimpleWriter1L;
 /**
  * Put a short phrase describing the program here.
  *
- * @author Put your name here
+ * @author James Wilfong
  *
  */
 public final class Homework4 {
